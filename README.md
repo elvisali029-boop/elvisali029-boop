@@ -18,10 +18,16 @@
 ### 🚀 Mes Projets Phares
 
 #### 🛒 ATLAS Marketplace Mobile App
-Une application e-commerce mobile complète et performante, adaptée d'un storefront **MedusaJS** pour offrir une expérience d'achat fluide.
+
+- *[🔗 Voir le dépôt](https://github.com/Iro007/atlas-mobile-app)*
+
+  ## ATLAS-MOBILE-APP
+  Une application e-commerce mobile complète et performante, adaptée d'un storefront **MedusaJS** pour offrir une expérience d'achat fluide.
+  
 - **Frontend** : Flutter, Dart, Provider
 - **Backend & Auth** : Supabase, Google Sign-In, MedusaJS
-- *[🔗 Voir le dépôt](https://github.com/Iro007/atlas-mobile-app)*
+- *[voir le dépôt](https://github.com/elvisali029-boop/atlas-mobile-app1)* 
+  
 
   ## MANGA_site
   tout un univers d'histoir faite par des jeunes talents!
