@@ -17,10 +17,6 @@
 
 ### 🚀 Mes Projets Phares
 
-#### 🛒 ATLAS Marketplace Mobile App
-
-- *[🔗 Voir le dépôt](https://github.com/Iro007/atlas-mobile-app)*
-
   ## ATLAS-MOBILE-APP
   Une application e-commerce mobile complète et performante, adaptée d'un storefront **MedusaJS** pour offrir une expérience d'achat fluide.
   
@@ -34,21 +30,6 @@
   -**Technologie**: HTML, CSS
   -*[voir le dépôt](https://github.com/elvisali029-boop/Manga_site)*
 
-#### 🌐 ATLAS Web Portal (Portail Web)
-Le portail web accompagnant l'écosystème Atlas, conçu pour être rapide et réactif.
-- **Technologies** : Vite, TypeScript, Node.js
-- *[🔗 Voir le dépôt](#)*
-
-#### 📖 Manga Hub
-Une plateforme web dédiée à la lecture et à la découverte de mangas.
-- **Technologies** : Node.js, Web Stack
-- *[🔗 Voir le dépôt](#)*
-
-#### 🛍️ E-Commerce & Projets Universitaires
-Divers projets incluant :
-- **E-Commerce Web** : Création de plateformes de vente en ligne.
-- **Projets Académiques (Licence 1 LGL)** : Interfaces web structurées avec HTML, CSS et JavaScript pur.
-- *[🔗 Voir le dépôt](#)*
 
 ---
 
@@ -79,5 +60,5 @@ Divers projets incluant :
 
 ---
 <div align="center">
-  <i>⭐️ Fait avec passion ⭐️</i>
+  
 </div>
