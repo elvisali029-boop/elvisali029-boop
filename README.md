@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 À propos de moi
+###  À propos de moi
 - 📱 **Mobile :** Spécialisé dans le développement d'applications cross-platform avec **Flutter**.
 - 💻 **Web :** Création d'interfaces web modernes et performantes (React, Vue, Vite, TS, HTML/CSS).
 - 💡 Toujours en quête d'apprentissage sur de nouvelles technologies (Backend as a Service, architectures modernes).
