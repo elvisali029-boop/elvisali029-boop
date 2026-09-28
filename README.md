@@ -23,6 +23,11 @@ Une application e-commerce mobile complète et performante, adaptée d'un storef
 - **Backend & Auth** : Supabase, Google Sign-In, MedusaJS
 - *[🔗 Voir le dépôt](https://github.com/Iro007/atlas-mobile-app)*
 
+  ## MANGA_site
+  tout un univers d'histoir faite par des jeunes talents!
+  -**Technologie**: HTML, CSS
+  -*[voir le dépôt](https://github.com/elvisali029-boop/Manga_site)*
+
 #### 🌐 ATLAS Web Portal (Portail Web)
 Le portail web accompagnant l'écosystème Atlas, conçu pour être rapide et réactif.
 - **Technologies** : Vite, TypeScript, Node.js
