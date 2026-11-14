@@ -15,21 +15,35 @@
 
 ---
 
+### 🌐 Portfolio : **[elvisali029-boop.github.io](https://elvisali029-boop.github.io)**
+
 ### 🚀 Mes Projets Phares
 
-  ## ATLAS-MOBILE-APP
-  Une application e-commerce mobile complète et performante, adaptée d'un storefront **MedusaJS** pour offrir une expérience d'achat fluide.
-  
-- **Frontend** : Flutter, Dart, Provider
-- **Backend & Auth** : Supabase, Google Sign-In, MedusaJS
-- *[voir le dépôt](https://github.com/elvisali029-boop/atlas-mobile-app1)* 
-  
+#### 🛒 ATLAS : la place de marché de Goma
+<a href="https://atlas-goma.vercel.app"><img src="https://elvisali029-boop.github.io/images/atlas-ordi.webp" width="640" alt="ATLAS"></a>
 
-  ## MANGA_site
-  tout un univers d'histoir faite par des jeunes talents!
-  -**Technologie**: HTML, CSS
-  -*[voir le dépôt](https://github.com/elvisali029-boop/Manga_site)*
+Boutiques vérifiées, articles livrés à moto, locations à réserver, services sur rendez-vous.
+Paiement en séquestre libéré par un code ou un QR code au livreur, attribution automatique du livreur
+le plus proche, adresse exacte sur la carte. Espaces client, vendeur, livreur et admin.
 
+`React` `TypeScript` `Supabase` `PostgreSQL / PostGIS` `MapLibre` `Vercel` `Android (TWA)` · 290+ tests de la base · 170+ tests du site
+
+**[Voir la démo →](https://atlas-goma.vercel.app)**
+
+#### 🛍️ Kitty : un panier, plusieurs boutiques
+<a href="https://kitty-goma.vercel.app"><img src="https://elvisali029-boop.github.io/images/kitty-ordi.webp" width="640" alt="Kitty"></a>
+
+Place de marché multi-vendeurs : un achat découpé en une commande par boutique, validation des
+boutiques par l'admin, espace livreur, panel d'administration séparé.
+
+`React` `TypeScript` `Supabase` `PostgreSQL` `Vercel` `Android (TWA)` · 77 tests de la base
+
+**[Voir la démo →](https://kitty-goma.vercel.app)**
+
+<sub>Versions de test (paiement simulé). Code source privé, montré sur demande.</sub>
+
+#### Autres projets
+- **[MANGA_site](https://github.com/elvisali029-boop/Manga_site)** : tout un univers d'histoires faites par de jeunes talents (HTML, CSS).
 
 ---
 
@@ -39,6 +53,10 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
