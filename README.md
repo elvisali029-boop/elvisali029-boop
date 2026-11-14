@@ -1,8 +1,10 @@
+<a href="https://elvisali029-boop.github.io"><img src="https://elvisali029-boop.github.io/readme/banniere.svg" alt="Salut, je suis Iro007 · développeur web et mobile à Goma" width="100%"></a>
+
 <div align="center">
-  <h1>👋 Salut, je suis Iro007</h1>
-  <h3>Développeur Mobile & Web passionné par la création de solutions innovantes</h3>
   <img src="https://komarev.com/ghpvc/?username=Iro007&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
+
+<img src="https://elvisali029-boop.github.io/readme/technos.svg" alt="React, TypeScript, Flutter, Supabase, PostgreSQL, PostGIS, Vite, MapLibre, Vercel, Android" width="100%">
 
 ---
 
@@ -19,26 +21,13 @@
 
 ### 🚀 Mes Projets Phares
 
-#### 🛒 ATLAS : la place de marché de Goma
-<a href="https://atlas-goma.vercel.app"><img src="https://elvisali029-boop.github.io/images/atlas-ordi.webp" width="640" alt="ATLAS"></a>
+<a href="https://atlas-goma.vercel.app"><img src="https://elvisali029-boop.github.io/readme/atlas.svg" alt="ATLAS : place de marché de Goma, voir la démo" width="100%"></a>
 
-Boutiques vérifiées, articles livrés à moto, locations à réserver, services sur rendez-vous.
-Paiement en séquestre libéré par un code ou un QR code au livreur, attribution automatique du livreur
-le plus proche, adresse exacte sur la carte. Espaces client, vendeur, livreur et admin.
+<p align="center"><a href="https://atlas-goma.vercel.app"><b>Voir la démo d'ATLAS →</b></a></p>
 
-`React` `TypeScript` `Supabase` `PostgreSQL / PostGIS` `MapLibre` `Vercel` `Android (TWA)` · 290+ tests de la base · 170+ tests du site
+<a href="https://kitty-goma.vercel.app"><img src="https://elvisali029-boop.github.io/readme/kitty.svg" alt="Kitty : place de marché multi-vendeurs, voir la démo" width="100%"></a>
 
-**[Voir la démo →](https://atlas-goma.vercel.app)**
-
-#### 🛍️ Kitty : un panier, plusieurs boutiques
-<a href="https://kitty-goma.vercel.app"><img src="https://elvisali029-boop.github.io/images/kitty-ordi.webp" width="640" alt="Kitty"></a>
-
-Place de marché multi-vendeurs : un achat découpé en une commande par boutique, validation des
-boutiques par l'admin, espace livreur, panel d'administration séparé.
-
-`React` `TypeScript` `Supabase` `PostgreSQL` `Vercel` `Android (TWA)` · 77 tests de la base
-
-**[Voir la démo →](https://kitty-goma.vercel.app)**
+<p align="center"><a href="https://kitty-goma.vercel.app"><b>Voir la démo de Kitty →</b></a></p>
 
 <sub>Versions de test (paiement simulé). Code source privé, montré sur demande.</sub>
 
