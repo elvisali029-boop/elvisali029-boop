@@ -1,61 +1,65 @@
-<a href="https://elvisali029-boop.github.io"><img src="https://elvisali029-boop.github.io/readme/banniere.svg" alt="Salut, je suis Iro007 · développeur web et mobile à Goma" width="100%"></a>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Iro007&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
+<a href="https://elvisali029-boop.github.io"><img src="https://elvisali029-boop.github.io/readme/banniere.svg" alt="Salut, je suis Iro007, développeur web et mobile à Goma" width="100%"></a>
 
 <img src="https://elvisali029-boop.github.io/readme/technos.svg" alt="React, TypeScript, Flutter, Supabase, PostgreSQL, PostGIS, Vite, MapLibre, Vercel, Android" width="100%">
 
----
+<p align="center">
+  <a href="https://elvisali029-boop.github.io"><img src="https://img.shields.io/badge/Portfolio-elvisali029--boop.github.io-f26b3a?style=for-the-badge&labelColor=151522" alt="Portfolio"></a>
+  <a href="mailto:elvisali029@gmail.com"><img src="https://img.shields.io/badge/Contact-elvisali029@gmail.com-3b82f6?style=for-the-badge&labelColor=151522" alt="Contact"></a>
+  <img src="https://komarev.com/ghpvc/?username=Iro007&label=Visites&color=7a2a63&style=for-the-badge" alt="Visites">
+</p>
 
-###  À propos de moi
-- 📱 **Mobile :** Spécialisé dans le développement d'applications cross-platform avec **Flutter**.
-- 💻 **Web :** Création d'interfaces web modernes et performantes (React, Vue, Vite, TS, HTML/CSS).
-- 💡 Toujours en quête d'apprentissage sur de nouvelles technologies (Backend as a Service, architectures modernes).
-- 🤝 Ouvert aux collaborations sur des projets open-source.
-- 📫 Comment me joindre : **[elvisali029@gmail.com](mailto:elvisali029@gmail.com)**
+<br>
 
----
+<img src="https://elvisali029-boop.github.io/readme/titre-apropos.svg" alt="01 · À propos" width="100%">
 
-### 🌐 Portfolio : **[elvisali029-boop.github.io](https://elvisali029-boop.github.io)**
+<img src="https://elvisali029-boop.github.io/readme/terminal.svg" alt="whoami : Iro007, développeur web et mobile basé à Goma. Des applis qui tiennent le terrain : réseau qui coupe, téléphones modestes, mobile money. Projets : ATLAS, Kitty, Manga_site. Ouvert aux collaborations." width="100%">
 
-### 🚀 Mes Projets Phares
+<br><br>
 
-<a href="https://atlas-goma.vercel.app"><img src="https://elvisali029-boop.github.io/readme/atlas.svg" alt="ATLAS : place de marché de Goma, voir la démo" width="100%"></a>
+<img src="https://elvisali029-boop.github.io/readme/titre-projets.svg" alt="02 · Projets" width="100%">
 
-<p align="center"><a href="https://atlas-goma.vercel.app"><b>Voir la démo d'ATLAS →</b></a></p>
+<a href="https://atlas-goma.vercel.app"><img src="https://elvisali029-boop.github.io/readme/atlas.svg?v=2" alt="ATLAS : la place de marché de Goma" width="100%"></a>
 
-<a href="https://kitty-goma.vercel.app"><img src="https://elvisali029-boop.github.io/readme/kitty.svg" alt="Kitty : place de marché multi-vendeurs, voir la démo" width="100%"></a>
+<p align="center"><a href="https://atlas-goma.vercel.app"><b>Ouvrir ATLAS &rarr;</b></a></p>
 
-<p align="center"><a href="https://kitty-goma.vercel.app"><b>Voir la démo de Kitty →</b></a></p>
+<a href="https://kitty-goma.vercel.app"><img src="https://elvisali029-boop.github.io/readme/kitty.svg?v=2" alt="Kitty : un panier, plusieurs boutiques" width="100%"></a>
 
-<sub>Versions de test (paiement simulé). Code source privé, montré sur demande.</sub>
+<p align="center"><a href="https://kitty-goma.vercel.app"><b>Ouvrir Kitty &rarr;</b></a></p>
 
-#### Autres projets
-- **[MANGA_site](https://github.com/elvisali029-boop/Manga_site)** : tout un univers d'histoires faites par de jeunes talents (HTML, CSS).
+<p align="center"><sub>Versions de test, paiement simulé. Code privé, montré sur demande.</sub></p>
 
----
+<p align="center">
+  Aussi : <a href="https://github.com/elvisali029-boop/Manga_site"><b>Manga_site</b></a>, un univers d'histoires écrites par de jeunes talents.
+</p>
 
-### 🛠️ Mes Compétences & Outils
+<br>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://elvisali029-boop.github.io/readme/titre-stack.svg" alt="03 · Stack" width="100%">
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-151522?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-151522?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart">
+  <img src="https://img.shields.io/badge/React-151522?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-151522?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-151522?style=for-the-badge&logo=vite&logoColor=A78BFA" alt="Vite">
+  <img src="https://img.shields.io/badge/Node.js-151522?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+  <br>
+  <img src="https://img.shields.io/badge/Supabase-151522?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-151522?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Vercel-151522?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Android-151522?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android">
+  <img src="https://img.shields.io/badge/HTML5-151522?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-151522?style=for-the-badge&logo=css&logoColor=663399" alt="CSS">
+</p>
 
-### 📈 Mes Statistiques GitHub
+<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elvisali029-boop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://elvisali029-boop.github.io/readme/titre-chiffres.svg" alt="04 · En chiffres" width="100%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elvisali029-boop&theme=tokyonight&hide_border=true&background=0D1117)
+<img src="https://elvisali029-boop.github.io/readme/chiffres.svg" alt="2 applis en ligne, 370+ tests de base de données, 18 quartiers de Goma, 4 espaces par appli" width="100%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisali029-boop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<br>
+
+<img src="https://elvisali029-boop.github.io/readme/titre-contact.svg" alt="05 · Contact" width="100%">
+
+<a href="mailto:elvisali029@gmail.com"><img src="https://elvisali029-boop.github.io/readme/contact.svg" alt="Un projet en tête ? Parlons-en. M'écrire" width="100%"></a>
