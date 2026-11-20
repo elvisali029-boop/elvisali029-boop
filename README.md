@@ -1,6 +1,6 @@
-<a href="https://elvisali029-boop.github.io"><img src="https://elvisali029-boop.github.io/readme/banniere.svg" alt="Salut, je suis Iro007, développeur web et mobile à Goma" width="100%"></a>
+<a href="https://elvisali029-boop.github.io"><img src="https://elvisali029-boop.github.io/readme/banniere.svg?v=3" alt="Salut, je suis Iro007, développeur web et mobile à Goma" width="100%"></a>
 
-<img src="https://elvisali029-boop.github.io/readme/technos.svg" alt="React, TypeScript, Flutter, Supabase, PostgreSQL, PostGIS, Vite, MapLibre, Vercel, Android" width="100%">
+<img src="https://elvisali029-boop.github.io/readme/technos.svg?v=3" alt="React, TypeScript, Flutter, Supabase, PostgreSQL, PostGIS, Vite, MapLibre, LiveKit, Web Push, Vercel, Android" width="100%">
 
 <p align="center">
   <a href="https://elvisali029-boop.github.io"><img src="https://img.shields.io/badge/Portfolio-elvisali029--boop.github.io-f26b3a?style=for-the-badge&labelColor=151522" alt="Portfolio"></a>
@@ -12,21 +12,21 @@
 
 <img src="https://elvisali029-boop.github.io/readme/titre-apropos.svg" alt="01 · À propos" width="100%">
 
-<img src="https://elvisali029-boop.github.io/readme/terminal.svg" alt="whoami : Iro007, développeur web et mobile basé à Goma. Des applis qui tiennent le terrain : réseau qui coupe, téléphones modestes, mobile money. Projets : ATLAS, Kitty, Manga_site. Ouvert aux collaborations." width="100%">
+<img src="https://elvisali029-boop.github.io/readme/terminal.svg?v=3" alt="whoami : Iro007, développeur web et mobile basé à Goma. Des applis qui tiennent le terrain : réseau qui coupe, téléphones modestes, mobile money. Projets : RHEEKA, Kitty, Manga_site. Ouvert aux collaborations." width="100%">
 
 <br><br>
 
-<img src="https://elvisali029-boop.github.io/readme/titre-projets.svg" alt="02 · Projets" width="100%">
+<img src="https://elvisali029-boop.github.io/readme/titre-projets.svg?v=3" alt="02 · Projets" width="100%">
 
-<a href="https://atlas-goma.vercel.app"><img src="https://elvisali029-boop.github.io/readme/atlas.svg?v=2" alt="ATLAS : la place de marché de Goma" width="100%"></a>
+<a href="https://rheeka.com"><img src="https://elvisali029-boop.github.io/readme/rheeka.svg?v=3" alt="RHEEKA : la marketplace de Goma, paiement en séquestre, livraison à moto" width="100%"></a>
 
-<p align="center"><a href="https://atlas-goma.vercel.app"><b>Ouvrir ATLAS &rarr;</b></a></p>
+<p align="center"><a href="https://rheeka.com"><b>Ouvrir rheeka.com &rarr;</b></a> &nbsp;·&nbsp; <a href="https://decouvrir.rheeka.com">Découvrir RHEEKA</a></p>
 
-<a href="https://kitty-goma.vercel.app"><img src="https://elvisali029-boop.github.io/readme/kitty.svg?v=2" alt="Kitty : un panier, plusieurs boutiques" width="100%"></a>
+<a href="https://kitty-goma.vercel.app"><img src="https://elvisali029-boop.github.io/readme/kitty.svg?v=3" alt="Kitty : une messagerie avec appels vidéo, groupes, statuts, sondages et stickers maison" width="100%"></a>
 
-<p align="center"><a href="https://kitty-goma.vercel.app"><b>Ouvrir Kitty &rarr;</b></a></p>
+<p align="center"><a href="https://kitty-goma.vercel.app"><b>Essayer Kitty &rarr;</b></a></p>
 
-<p align="center"><sub>Versions de test, paiement simulé. Code privé, montré sur demande.</sub></p>
+<p align="center"><sub>Versions de test (RHEEKA : paiement simulé). Code privé, montré sur demande.</sub></p>
 
 <p align="center">
   Aussi : <a href="https://github.com/elvisali029-boop/Manga_site"><b>Manga_site</b></a>, un univers d'histoires écrites par de jeunes talents.
@@ -46,6 +46,7 @@
   <br>
   <img src="https://img.shields.io/badge/Supabase-151522?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase">
   <img src="https://img.shields.io/badge/PostgreSQL-151522?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/WebRTC-151522?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC">
   <img src="https://img.shields.io/badge/Vercel-151522?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Android-151522?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android">
   <img src="https://img.shields.io/badge/HTML5-151522?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
@@ -56,7 +57,7 @@
 
 <img src="https://elvisali029-boop.github.io/readme/titre-chiffres.svg" alt="04 · En chiffres" width="100%">
 
-<img src="https://elvisali029-boop.github.io/readme/chiffres.svg" alt="2 applis en ligne, 370+ tests de base de données, 18 quartiers de Goma, 4 espaces par appli" width="100%">
+<img src="https://elvisali029-boop.github.io/readme/chiffres.svg?v=3" alt="2 applis en ligne, 560+ tests de base de données, 18 quartiers de Goma, 72 stickers originaux" width="100%">
 
 <br>
 
