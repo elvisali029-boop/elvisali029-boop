@@ -1,6 +1,6 @@
-<a href="https://elvisali029-boop.github.io"><img src="https://elvisali029-boop.github.io/readme/banniere.svg?v=3" alt="Salut, je suis Iro007, développeur web et mobile à Goma" width="100%"></a>
+<a href="https://elvisali029-boop.github.io"><img src="https://elvisali029-boop.github.io/readme/banniere.svg?v=4" alt="Salut, je suis Iro007, développeur web et mobile à Goma" width="100%"></a>
 
-<img src="https://elvisali029-boop.github.io/readme/technos.svg?v=3" alt="React, TypeScript, Flutter, Supabase, PostgreSQL, PostGIS, Vite, MapLibre, LiveKit, Web Push, Vercel, Android" width="100%">
+<img src="https://elvisali029-boop.github.io/readme/technos.svg?v=4" alt="React, TypeScript, Flutter, Supabase, PostgreSQL, PostGIS, Vite, MapLibre, LiveKit, Web Push, Vercel, Android" width="100%">
 
 <p align="center">
   <a href="https://elvisali029-boop.github.io"><img src="https://img.shields.io/badge/Portfolio-elvisali029--boop.github.io-f26b3a?style=for-the-badge&labelColor=151522" alt="Portfolio"></a>
