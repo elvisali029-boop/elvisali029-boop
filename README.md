@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://elvisali029-boop.github.io"><img src="https://img.shields.io/badge/Portfolio-elvisali029--boop.github.io-f26b3a?style=for-the-badge&labelColor=151522" alt="Portfolio"></a>
   <a href="mailto:elvisali029@gmail.com"><img src="https://img.shields.io/badge/Contact-elvisali029@gmail.com-3b82f6?style=for-the-badge&labelColor=151522" alt="Contact"></a>
+  <img src="https://img.shields.io/badge/Discord-iro0070882-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=151522" alt="Discord : iro0070882">
   <img src="https://komarev.com/ghpvc/?username=Iro007&label=Visites&color=7a2a63&style=for-the-badge" alt="Visites">
 </p>
 
@@ -64,3 +65,8 @@
 <img src="https://elvisali029-boop.github.io/readme/titre-contact.svg" alt="05 · Contact" width="100%">
 
 <a href="mailto:elvisali029@gmail.com"><img src="https://elvisali029-boop.github.io/readme/contact.svg" alt="Un projet en tête ? Parlons-en. M'écrire" width="100%"></a>
+
+<p align="center">
+  <a href="mailto:elvisali029@gmail.com"><img src="https://img.shields.io/badge/E--mail-elvisali029@gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=151522" alt="E-mail : elvisali029@gmail.com"></a>
+  <img src="https://img.shields.io/badge/Discord-iro0070882-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=151522" alt="Discord : iro0070882">
+</p>
