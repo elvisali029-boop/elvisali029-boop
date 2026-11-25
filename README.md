@@ -13,7 +13,7 @@
 
 <img src="https://elvisali029-boop.github.io/readme/titre-apropos.svg" alt="01 · À propos" width="100%">
 
-<img src="https://elvisali029-boop.github.io/readme/terminal.svg?v=3" alt="whoami : Iro007, développeur web et mobile basé à Goma. Des applis qui tiennent le terrain : réseau qui coupe, téléphones modestes, mobile money. Projets : RHEEKA, Kitty, Manga_site. Ouvert aux collaborations." width="100%">
+<img src="https://elvisali029-boop.github.io/readme/terminal.svg?v=4" alt="whoami : Iro007, développeur web et mobile basé à Goma. Des applis qui tiennent le terrain : réseau qui coupe, téléphones modestes, mobile money. Projets : RHEEKA, Kitty, Estory, Manga_site. Ouvert aux collaborations." width="100%">
 
 <br><br>
 
@@ -26,6 +26,10 @@
 <a href="https://kitty-goma.vercel.app"><img src="https://elvisali029-boop.github.io/readme/kitty.svg?v=3" alt="Kitty : une messagerie avec appels vidéo, groupes, statuts, sondages et stickers maison" width="100%"></a>
 
 <p align="center"><a href="https://kitty-goma.vercel.app"><b>Essayer Kitty &rarr;</b></a></p>
+
+<a href="https://estory-lecture.vercel.app"><img src="https://elvisali029-boop.github.io/readme/estory.svg?v=1" alt="Estory : lire et publier des mangas, webtoons, comics, romans et livres, chapitre par chapitre" width="100%"></a>
+
+<p align="center"><a href="https://estory-lecture.vercel.app"><b>Ouvrir Estory &rarr;</b></a></p>
 
 <p align="center"><sub>Versions de test (RHEEKA : paiement simulé). Code privé, montré sur demande.</sub></p>
 
@@ -58,7 +62,7 @@
 
 <img src="https://elvisali029-boop.github.io/readme/titre-chiffres.svg" alt="04 · En chiffres" width="100%">
 
-<img src="https://elvisali029-boop.github.io/readme/chiffres.svg?v=3" alt="2 applis en ligne, 560+ tests de base de données, 18 quartiers de Goma, 72 stickers originaux" width="100%">
+<img src="https://elvisali029-boop.github.io/readme/chiffres.svg?v=4" alt="3 applis en ligne, 600+ tests de base de données, 18 quartiers de Goma, 72 stickers originaux" width="100%">
 
 <br>
 
