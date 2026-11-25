@@ -27,7 +27,7 @@
 
 <p align="center"><a href="https://kitty-goma.vercel.app"><b>Essayer Kitty &rarr;</b></a></p>
 
-<a href="https://estory-lecture.vercel.app"><img src="https://elvisali029-boop.github.io/readme/estory.svg?v=1" alt="Estory : lire et publier des mangas, webtoons, comics, romans et livres, chapitre par chapitre" width="100%"></a>
+<a href="https://estory-lecture.vercel.app"><img src="https://elvisali029-boop.github.io/readme/estory.svg?v=2" alt="Estory : lire et publier des mangas, webtoons, comics, BD africaines, romans et livres, chapitre par chapitre" width="100%"></a>
 
 <p align="center"><a href="https://estory-lecture.vercel.app"><b>Ouvrir Estory &rarr;</b></a></p>
 
