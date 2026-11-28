@@ -13,7 +13,7 @@
 
 <img src="https://elvisali029-boop.github.io/readme/titre-apropos.svg" alt="01 · À propos" width="100%">
 
-<img src="https://elvisali029-boop.github.io/readme/terminal.svg?v=5" alt="whoami : Iro007, développeur web et mobile basé à Goma. Des applis qui tiennent le terrain : réseau qui coupe, téléphones modestes, mobile money. Projets : RHEEKA, Kitty, Estory, Rice, Manga_site. Ouvert aux collaborations." width="100%">
+<img src="https://elvisali029-boop.github.io/readme/terminal.svg?v=6" alt="whoami : Iro007, développeur web et mobile basé à Goma. Des applis qui tiennent le terrain : réseau qui coupe, téléphones modestes, mobile money. Projets : RHEEKA, Kitty, Estory, Rice, Manga_site. Setup : CachyOS, Hyprland, widgets QML maison. Ouvert aux collaborations." width="100%">
 
 <br><br>
 
@@ -58,8 +58,15 @@
   <img src="https://img.shields.io/badge/WebRTC-151522?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC">
   <img src="https://img.shields.io/badge/Vercel-151522?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Android-151522?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android">
+  <img src="https://img.shields.io/badge/Capacitor-151522?style=for-the-badge&logo=capacitor&logoColor=119EFF" alt="Capacitor">
   <img src="https://img.shields.io/badge/HTML5-151522?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS-151522?style=for-the-badge&logo=css&logoColor=663399" alt="CSS">
+  <br>
+  <img src="https://img.shields.io/badge/Arch_Linux_(CachyOS)-151522?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux (CachyOS)">
+  <img src="https://img.shields.io/badge/Hyprland-151522?style=for-the-badge&logo=hyprland&logoColor=58E1FF" alt="Hyprland">
+  <img src="https://img.shields.io/badge/QML-151522?style=for-the-badge&logo=qt&logoColor=41CD52" alt="QML">
+  <img src="https://img.shields.io/badge/Lua-151522?style=for-the-badge&logo=lua&logoColor=7B8CFF" alt="Lua">
+  <img src="https://img.shields.io/badge/Python-151522?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
 </p>
 
 <br>
