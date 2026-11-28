@@ -1,6 +1,6 @@
 <a href="https://elvisali029-boop.github.io"><img src="https://elvisali029-boop.github.io/readme/banniere.svg?v=4" alt="Salut, je suis Iro007, développeur web et mobile à Goma" width="100%"></a>
 
-<img src="https://elvisali029-boop.github.io/readme/technos.svg?v=4" alt="React, TypeScript, Flutter, Supabase, PostgreSQL, PostGIS, Vite, MapLibre, LiveKit, Web Push, Vercel, Android" width="100%">
+<img src="https://elvisali029-boop.github.io/readme/technos.svg?v=5" alt="React, TypeScript, Flutter, Supabase, PostgreSQL, PostGIS, Vite, MapLibre, LiveKit, Web Push, Capacitor, Vercel, Android, Hyprland" width="100%">
 
 <p align="center">
   <a href="https://elvisali029-boop.github.io"><img src="https://img.shields.io/badge/Portfolio-elvisali029--boop.github.io-f26b3a?style=for-the-badge&labelColor=151522" alt="Portfolio"></a>
@@ -13,11 +13,11 @@
 
 <img src="https://elvisali029-boop.github.io/readme/titre-apropos.svg" alt="01 · À propos" width="100%">
 
-<img src="https://elvisali029-boop.github.io/readme/terminal.svg?v=4" alt="whoami : Iro007, développeur web et mobile basé à Goma. Des applis qui tiennent le terrain : réseau qui coupe, téléphones modestes, mobile money. Projets : RHEEKA, Kitty, Estory, Manga_site. Ouvert aux collaborations." width="100%">
+<img src="https://elvisali029-boop.github.io/readme/terminal.svg?v=5" alt="whoami : Iro007, développeur web et mobile basé à Goma. Des applis qui tiennent le terrain : réseau qui coupe, téléphones modestes, mobile money. Projets : RHEEKA, Kitty, Estory, Rice, Manga_site. Ouvert aux collaborations." width="100%">
 
 <br><br>
 
-<img src="https://elvisali029-boop.github.io/readme/titre-projets.svg?v=3" alt="02 · Projets" width="100%">
+<img src="https://elvisali029-boop.github.io/readme/titre-projets.svg?v=4" alt="02 · Projets" width="100%">
 
 <a href="https://rheeka.com"><img src="https://elvisali029-boop.github.io/readme/rheeka.svg?v=3" alt="RHEEKA : la marketplace de Goma, paiement en séquestre, livraison à moto" width="100%"></a>
 
@@ -27,9 +27,13 @@
 
 <p align="center"><a href="https://kitty-goma.vercel.app"><b>Essayer Kitty &rarr;</b></a></p>
 
-<a href="https://estory-lecture.vercel.app"><img src="https://elvisali029-boop.github.io/readme/estory.svg?v=2" alt="Estory : lire et publier des mangas, webtoons, comics, BD africaines, romans et livres, chapitre par chapitre" width="100%"></a>
+<a href="https://estory-lecture.vercel.app"><img src="https://elvisali029-boop.github.io/readme/estory.svg?v=3" alt="Estory : lire et publier des mangas, webtoons, BD africaines et romans ; en direct, notifications push et appli Android" width="100%"></a>
 
 <p align="center"><a href="https://estory-lecture.vercel.app"><b>Ouvrir Estory &rarr;</b></a></p>
+
+<a href="https://elvisali029-boop.github.io/#rice"><img src="https://elvisali029-boop.github.io/readme/rice.svg?v=1" alt="Mon bureau : rice Linux sous Hyprland, widgets QML maison (météo, tâches, paroles, agenda, système, GitHub), texte lisible sur 151 fonds d'écran" width="100%"></a>
+
+<p align="center"><a href="https://elvisali029-boop.github.io/#rice"><b>Voir mon bureau &rarr;</b></a></p>
 
 <p align="center"><sub>Versions de test (RHEEKA : paiement simulé). Code privé, montré sur demande.</sub></p>
 
