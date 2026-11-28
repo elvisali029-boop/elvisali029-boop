@@ -31,7 +31,7 @@
 
 <p align="center"><a href="https://estory-lecture.vercel.app"><b>Ouvrir Estory &rarr;</b></a></p>
 
-<a href="https://elvisali029-boop.github.io/#rice"><img src="https://elvisali029-boop.github.io/readme/rice.svg?v=1" alt="Mon bureau : rice Linux sous Hyprland, widgets QML maison (météo, tâches, paroles, agenda, système, GitHub), texte lisible sur 151 fonds d'écran" width="100%"></a>
+<a href="https://elvisali029-boop.github.io/#rice"><img src="https://elvisali029-boop.github.io/readme/rice.svg?v=2" alt="Mon bureau : rice Linux sous Hyprland, widgets QML maison (météo, tâches, paroles, agenda, système, GitHub), texte lisible sur 151 fonds d'écran" width="100%"></a>
 
 <p align="center"><a href="https://elvisali029-boop.github.io/#rice"><b>Voir mon bureau &rarr;</b></a></p>
 
